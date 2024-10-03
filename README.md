@@ -14,11 +14,11 @@ Accurate reports are essential for better resource allocation and investment pla
 
 ## Functions
 
-auth.py function is responsible to get the TOKENS from the NCS (CIENA Management System) for authetification purposes.
+**auth.py** function is responsible to get the TOKENS from the NCS (CIENA Management System) for authetification purposes.
 
-inventory.py is responsible to get the informations related to the network constructive ID. These informations are hardware informations in a JSON format.
+**inventory.py** is responsible to get the informations related to the network constructive ID. These informations are hardware informations in a JSON format.
 
-generate_inventory_excel.py is responsible to use the JSONs datas and get the relevant informations like PartNumber, type of the equippament, Location (Shelf, slot, NE name) and store it in a Excel file.
+**generate_inventory_excel.py** is responsible to use the JSONs datas and get the relevant informations like PartNumber, type of the equippament, Location (Shelf, slot, NE name) and store it in a Excel file.
 
 ## Usage
 
