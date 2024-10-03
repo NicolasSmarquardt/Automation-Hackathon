@@ -8,15 +8,15 @@ from urllib3.exceptions import InsecureRequestWarning
 
 warnings.simplefilter('ignore', InsecureRequestWarning)
 
-MCP_SERVER = "https://10.183.205.152"
-MCP_USERNAME = "admin"
-MCP_PASSWORD = "adminpw"
+MCP_SERVER = "https://xx"
+MCP_USERNAME = "xx"
+MCP_PASSWORD = "xx"
 network_constr_ids = {
-    'NE1': 'c465bba4-c689-3bd0-85c9-281b3188b050',
-    'NE2': 'd120cf03-03cc-3d1b-b617-0c5acb237929',
-    'NE3': 'caea76c6-ce8a-33c2-b368-4fd471fbbd9f',
-    'NE4': '48258af3-51b6-39c4-9b5e-21aa2fcd45d2',
-    'NE5': '55b304c5-f4fd-3a49-8a2a-7a0840552e4f'
+    'NE1': 'x',
+    'NE2': 'x',
+    'NE3': 'x',
+    'NE4': 'x',
+    'NE5': 'x'
 }
 
 def main():
