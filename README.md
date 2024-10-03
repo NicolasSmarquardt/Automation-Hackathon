@@ -40,7 +40,7 @@ network_constr_ids = {
 
 With that you will be able to run the scripts.
 
-## Future UPGRADES:
+## Future upgrades:
 
 Upgrade this scripts auttomating also the process of getting the network_constr_ids using this API:
 
