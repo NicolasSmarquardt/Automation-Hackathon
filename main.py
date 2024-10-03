@@ -1,20 +1,11 @@
 import json
 from auth import token_request
-from spectral import get_spectral_data
 from inventory import get_inventory
 from generate_inventory_excel import generate_inventory_excel
 
 import warnings
 from urllib3.exceptions import InsecureRequestWarning
 
-# Importa a função do arquivo report_generator.py
-from report_generator import generate_spectral_report
-
-# Defina o caminho do arquivo JSON e onde deseja salvar o relatório
-json_file_path = 'spectral_data.json'
-report_file_path = 'spectral_report.txt'
-
-# Suprimir avisos de SSL não verificados
 warnings.simplefilter('ignore', InsecureRequestWarning)
 
 MCP_SERVER = "https://10.183.205.152"
@@ -28,11 +19,9 @@ network_constr_ids = {
     'NE5': '55b304c5-f4fd-3a49-8a2a-7a0840552e4f'
 }
 
-fre_ids = '55b304c5-f4fd-3a49-8a2a-7a0840552e4f::TPE_55b304c5-f4fd-3a49-8a2a-7a0840552e4f::EQPT_1_6-1-CTPServerToClient-cef01d9b-a846-4fef-80c4-e92445ad3fdc-OTSi_c465bba4-c689-3bd0-85c9-281b3188b050::TPE_c465bba4-c689-3bd0-85c9-281b3188b050::EQPT_1_6-2-CTPServerToClient-cef01d9b-a846-4fef-80c4-e92445ad3fdc-OTSi'
-
 def main():
     try:
-        # Autenticação e obtenção do token
+        # get tokens
         token = token_request(MCP_SERVER, MCP_USERNAME, MCP_PASSWORD)
         print(token)
         
