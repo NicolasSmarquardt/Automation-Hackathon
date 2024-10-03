@@ -12,6 +12,14 @@ The telecommunications environment is complex, comprising a wide array of interc
 
 Accurate reports are essential for better resource allocation and investment planning. Furthermore, having an organized and up-to-date equipment inventory facilitates internal and external audits, ensuring compliance and operational transparency. A detailed overview of the existing infrastructure is also critical for planning network expansions or future upgrades, allowing for informed decisions that enhance network performance and scalability.
 
+## Functions
+
+auth.py function is responsible to get the TOKENS from the NCS (CIENA Management System) for authetification purposes.
+
+inventory.py is responsible to get the informations related to the network constructive ID. These informations are hardware informations in a JSON format.
+
+generate_inventory_excel.py is responsible to use the JSONs datas and get the relevant informations like PartNumber, type of the equippament, Location (Shelf, slot, NE name) and store it in a Excel file.
+
 ## Usage
 
 To use the scripts you must specify some informations hardcoding. And these informations are:
