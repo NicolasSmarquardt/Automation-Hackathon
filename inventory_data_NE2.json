@@ -1,0 +1,2620 @@
+{
+    "links": {},
+    "data": [
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_15_2",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "P155M-1-15-2",
+                    "displayNameFormat": "type-sh-sl-ssl",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "15",
+                        "subslot": "2",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "P155M-1-15-2",
+                "provisionedSpec": {
+                    "manufacturer": "CIENA",
+                    "type": "OC-3 0-34dB CWDM 1511 nm Low TX Power",
+                    "partNumber": "NTK592NG",
+                    "additionalAttributes": {
+                        "eqpWidth": "1"
+                    }
+                },
+                "cardType": "P155M",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "otsRole": "OSC",
+                    "isUpgrading": "False",
+                    "alarmResourceId": "P155M-1-15-2,OTS-1-2",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS",
+                    "hasParentEquipment": "true",
+                    "otsAid": "OTS-1-2"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_15_2"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_15_2"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_15"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_2_2",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "P155M-1-2-2",
+                    "displayNameFormat": "type-sh-sl-ssl",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "2",
+                        "subslot": "2",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "P155M-1-2-2",
+                "provisionedSpec": {
+                    "manufacturer": "CIENA",
+                    "type": "OC-3 0-34dB CWDM 1511 nm Low TX Power",
+                    "partNumber": "NTK592NG",
+                    "additionalAttributes": {
+                        "eqpWidth": "1"
+                    }
+                },
+                "cardType": "P155M",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "otsRole": "OSC",
+                    "isUpgrading": "False",
+                    "alarmResourceId": "P155M-1-2-2,OTS-1-1",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS",
+                    "hasParentEquipment": "true",
+                    "otsAid": "OTS-1-1"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_2_2"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_2_2"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_2"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_35_2",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "P155M-1-35-2",
+                    "displayNameFormat": "type-sh-sl-ssl",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "35",
+                        "subslot": "2",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "P155M-1-35-2",
+                "provisionedSpec": {
+                    "manufacturer": "CIENA",
+                    "type": "OC-3 0-34dB CWDM 1511 nm Low TX Power",
+                    "partNumber": "NTK592NG",
+                    "additionalAttributes": {
+                        "eqpWidth": "1"
+                    }
+                },
+                "cardType": "P155M",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "otsRole": "OSC",
+                    "isUpgrading": "False",
+                    "alarmResourceId": "P155M-1-35-2,OTS-1-4",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS",
+                    "hasParentEquipment": "true",
+                    "otsAid": "OTS-1-4"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_35_2"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_35_2"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_35"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_17",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "WSSOPM-1-17",
+                    "displayNameFormat": "type-sh-sl",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "17",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "WSSOPM-1-17",
+                "provisionedSpec": {
+                    "hardwareVersion": "01A",
+                    "serialNumber": "NNTMWSS00001",
+                    "manufacturer": "CIENA",
+                    "type": "WSS Flex C-Band w/OPM 20x1",
+                    "partNumber": "NTK553MA",
+                    "version": "01A",
+                    "displayLabels": {
+                        "clei": "CLEI_8177"
+                    },
+                    "additionalAttributes": {
+                        "equipmentProfile": "FLEXIBLEGRID",
+                        "eqpWidth": "2"
+                    }
+                },
+                "installedSpec": {
+                    "hardwareVersion": "01A",
+                    "serialNumber": "NNTMWSS00001",
+                    "manufacturer": "CIENA",
+                    "type": "WSS Flex C-Band w/OPM 20x1",
+                    "partNumber": "NTK553MA",
+                    "version": "01A",
+                    "displayLabels": {
+                        "clei": "CLEI_8177"
+                    },
+                    "additionalAttributes": {
+                        "eqpWidth": "2",
+                        "cardType": "WSSOPM",
+                        "mdat": "0-01",
+                        "cardPower": "FULL"
+                    }
+                },
+                "cardType": "WSSOPM",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "otsRole": "WSS",
+                    "isUpgrading": "False",
+                    "alarmResourceId": "WSSOPM-1-17,OTS-1-4",
+                    "manufactureDate": "0-01",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS",
+                    "otsAid": "OTS-1-4"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_17"
+                    }
+                },
+                "utilization": {
+                    "data": {
+                        "type": "utilization",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_17"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_17"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_16",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "XLA-1-16",
+                    "displayNameFormat": "type-sh-sl",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "16",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "XLA-1-16",
+                "provisionedSpec": {
+                    "hardwareVersion": "20A",
+                    "serialNumber": "NNTMRT0YLG43",
+                    "manufacturer": "CIENA",
+                    "type": "XLA C-Band",
+                    "partNumber": "NTK552KA",
+                    "version": "20A",
+                    "displayLabels": {
+                        "clei": "CLEI_8176"
+                    },
+                    "additionalAttributes": {
+                        "eqpWidth": "1"
+                    }
+                },
+                "installedSpec": {
+                    "hardwareVersion": "20A",
+                    "serialNumber": "NNTMRT0YLG43",
+                    "manufacturer": "CIENA",
+                    "type": "XLA C-Band",
+                    "partNumber": "NTK552KA",
+                    "version": "20A",
+                    "displayLabels": {
+                        "clei": "CLEI_8176"
+                    },
+                    "additionalAttributes": {
+                        "eqpWidth": "1",
+                        "cardType": "XLA",
+                        "mdat": "0-51",
+                        "cardPower": "FULL"
+                    }
+                },
+                "cardType": "XLA",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "otsRole": "AMP1",
+                    "isUpgrading": "False",
+                    "alarmResourceId": "XLA-1-16,OTS-1-2",
+                    "manufactureDate": "0-51",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS",
+                    "otsAid": "OTS-1-2"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_16"
+                    }
+                },
+                "utilization": {
+                    "data": {
+                        "type": "utilization",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_16"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_16"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_15",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "ESAM-1-15",
+                    "displayNameFormat": "type-sh-sl",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "15",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "ESAM-1-15",
+                "provisionedSpec": {
+                    "hardwareVersion": "20A",
+                    "serialNumber": "NNTMLIM00001",
+                    "manufacturer": "CIENA",
+                    "type": "ESAM C-Band w/OSC 1xSFP 10/100 BT WSC",
+                    "partNumber": "NTK552JT",
+                    "version": "20A",
+                    "displayLabels": {
+                        "clei": "CLEI_8175"
+                    },
+                    "additionalAttributes": {
+                        "eqpWidth": "1"
+                    }
+                },
+                "installedSpec": {
+                    "hardwareVersion": "20A",
+                    "serialNumber": "NNTMLIM00001",
+                    "manufacturer": "CIENA",
+                    "type": "ESAM C-Band w/OSC 1xSFP 10/100 BT WSC",
+                    "partNumber": "NTK552JT",
+                    "version": "20A",
+                    "displayLabels": {
+                        "clei": "CLEI_8175"
+                    },
+                    "subtendingEquipment": [
+                        {
+                            "total": "1",
+                            "type": "pluggable"
+                        }
+                    ],
+                    "additionalAttributes": {
+                        "eqpWidth": "1",
+                        "cardType": "ESAM",
+                        "mdat": "0-51",
+                        "cardPower": "FULL"
+                    }
+                },
+                "cardType": "ESAM",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "otsRole": "LIM",
+                    "isUpgrading": "False",
+                    "alarmResourceId": "ESAM-1-15,OTS-1-2",
+                    "manufactureDate": "0-51",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS",
+                    "otsAid": "OTS-1-2"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_15"
+                    }
+                },
+                "utilization": {
+                    "data": {
+                        "type": "utilization",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_15"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_15"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_36",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "XLA-1-36",
+                    "displayNameFormat": "type-sh-sl",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "36",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "XLA-1-36",
+                "provisionedSpec": {
+                    "hardwareVersion": "20A",
+                    "serialNumber": "NNTMRT0YLG43",
+                    "manufacturer": "CIENA",
+                    "type": "XLA C-Band",
+                    "partNumber": "NTK552KA",
+                    "version": "20A",
+                    "displayLabels": {
+                        "clei": "CLEI_8196"
+                    },
+                    "additionalAttributes": {
+                        "eqpWidth": "1"
+                    }
+                },
+                "installedSpec": {
+                    "hardwareVersion": "20A",
+                    "serialNumber": "NNTMRT0YLG43",
+                    "manufacturer": "CIENA",
+                    "type": "XLA C-Band",
+                    "partNumber": "NTK552KA",
+                    "version": "20A",
+                    "displayLabels": {
+                        "clei": "CLEI_8196"
+                    },
+                    "additionalAttributes": {
+                        "eqpWidth": "1",
+                        "cardType": "XLA",
+                        "mdat": "0-51",
+                        "cardPower": "FULL"
+                    }
+                },
+                "cardType": "XLA",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "otsRole": "AMP1",
+                    "isUpgrading": "False",
+                    "alarmResourceId": "XLA-1-36,OTS-1-4",
+                    "manufactureDate": "0-51",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS",
+                    "otsAid": "OTS-1-4"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_36"
+                    }
+                },
+                "utilization": {
+                    "data": {
+                        "type": "utilization",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_36"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_36"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_35",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "ESAM-1-35",
+                    "displayNameFormat": "type-sh-sl",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "35",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "ESAM-1-35",
+                "provisionedSpec": {
+                    "hardwareVersion": "20A",
+                    "serialNumber": "NNTMLIM00001",
+                    "manufacturer": "CIENA",
+                    "type": "ESAM C-Band w/OSC 1xSFP 10/100 BT WSC",
+                    "partNumber": "NTK552JT",
+                    "version": "20A",
+                    "displayLabels": {
+                        "clei": "CLEI_8195"
+                    },
+                    "additionalAttributes": {
+                        "eqpWidth": "1"
+                    }
+                },
+                "installedSpec": {
+                    "hardwareVersion": "20A",
+                    "serialNumber": "NNTMLIM00001",
+                    "manufacturer": "CIENA",
+                    "type": "ESAM C-Band w/OSC 1xSFP 10/100 BT WSC",
+                    "partNumber": "NTK552JT",
+                    "version": "20A",
+                    "displayLabels": {
+                        "clei": "CLEI_8195"
+                    },
+                    "subtendingEquipment": [
+                        {
+                            "total": "1",
+                            "type": "pluggable"
+                        }
+                    ],
+                    "additionalAttributes": {
+                        "eqpWidth": "1",
+                        "cardType": "ESAM",
+                        "mdat": "0-51",
+                        "cardPower": "FULL"
+                    }
+                },
+                "cardType": "ESAM",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "otsRole": "LIM",
+                    "isUpgrading": "False",
+                    "alarmResourceId": "ESAM-1-35,OTS-1-4",
+                    "manufactureDate": "0-51",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS",
+                    "otsAid": "OTS-1-4"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_35"
+                    }
+                },
+                "utilization": {
+                    "data": {
+                        "type": "utilization",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_35"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_35"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_13",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "WSSOPM-1-13",
+                    "displayNameFormat": "type-sh-sl",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "13",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "WSSOPM-1-13",
+                "provisionedSpec": {
+                    "hardwareVersion": "01A",
+                    "serialNumber": "NNTMWSS00001",
+                    "manufacturer": "CIENA",
+                    "type": "WSS Flex C-Band w/OPM 20x1",
+                    "partNumber": "NTK553MA",
+                    "version": "01A",
+                    "displayLabels": {
+                        "clei": "CLEI_8173"
+                    },
+                    "additionalAttributes": {
+                        "equipmentProfile": "FLEXIBLEGRID",
+                        "eqpWidth": "2"
+                    }
+                },
+                "installedSpec": {
+                    "hardwareVersion": "01A",
+                    "serialNumber": "NNTMWSS00001",
+                    "manufacturer": "CIENA",
+                    "type": "WSS Flex C-Band w/OPM 20x1",
+                    "partNumber": "NTK553MA",
+                    "version": "01A",
+                    "displayLabels": {
+                        "clei": "CLEI_8173"
+                    },
+                    "additionalAttributes": {
+                        "eqpWidth": "2",
+                        "cardType": "WSSOPM",
+                        "mdat": "0-01",
+                        "cardPower": "FULL"
+                    }
+                },
+                "cardType": "WSSOPM",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "otsRole": "WSS",
+                    "isUpgrading": "False",
+                    "alarmResourceId": "WSSOPM-1-13,OTS-1-3",
+                    "manufactureDate": "0-01",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS",
+                    "otsAid": "OTS-1-3"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_13"
+                    }
+                },
+                "utilization": {
+                    "data": {
+                        "type": "utilization",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_13"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_13"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_23",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "XLA-1-23",
+                    "displayNameFormat": "type-sh-sl",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "23",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "XLA-1-23",
+                "provisionedSpec": {
+                    "hardwareVersion": "20A",
+                    "serialNumber": "NNTMRT0YLG43",
+                    "manufacturer": "CIENA",
+                    "type": "XLA C-Band",
+                    "partNumber": "NTK552KA",
+                    "version": "20A",
+                    "displayLabels": {
+                        "clei": "CLEI_8183"
+                    },
+                    "additionalAttributes": {
+                        "eqpWidth": "1"
+                    }
+                },
+                "installedSpec": {
+                    "hardwareVersion": "20A",
+                    "serialNumber": "NNTMRT0YLG43",
+                    "manufacturer": "CIENA",
+                    "type": "XLA C-Band",
+                    "partNumber": "NTK552KA",
+                    "version": "20A",
+                    "displayLabels": {
+                        "clei": "CLEI_8183"
+                    },
+                    "additionalAttributes": {
+                        "eqpWidth": "1",
+                        "cardType": "XLA",
+                        "mdat": "0-51",
+                        "cardPower": "FULL"
+                    }
+                },
+                "cardType": "XLA",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "otsRole": "AMP1",
+                    "isUpgrading": "False",
+                    "alarmResourceId": "XLA-1-23,OTS-1-3",
+                    "manufactureDate": "0-51",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS",
+                    "otsAid": "OTS-1-3"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_23"
+                    }
+                },
+                "utilization": {
+                    "data": {
+                        "type": "utilization",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_23"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_23"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_FAN_45",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "Fan-1-45",
+                    "displayNameFormat": "type-sh-sl"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "subshelf": "FAN",
+                        "slot": "45",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "",
+                "installedSpec": {
+                    "hardwareVersion": "0000",
+                    "serialNumber": "0x00",
+                    "manufacturer": "CIENA",
+                    "type": "Fan",
+                    "partNumber": "NTK607AA",
+                    "version": "0000",
+                    "displayLabels": {
+                        "clei": "0x00"
+                    },
+                    "additionalAttributes": {
+                        "eqpWidth": "1",
+                        "cardType": "Fan",
+                        "mdat": "2003-01",
+                        "serviceCarrier": "false"
+                    }
+                },
+                "cardType": "Fan",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "isUpgrading": "False",
+                    "manufactureDate": "2003-01"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_FAN_45"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_FAN_45"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_44",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "PWR-1-44",
+                    "displayNameFormat": "type-sh-sl"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "44",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "",
+                "installedSpec": {
+                    "manufacturer": "CIENA",
+                    "type": "Power Card 3x60A breakered",
+                    "partNumber": "NTK605CA",
+                    "displayLabels": {
+                        "clei": "SIMPWR"
+                    },
+                    "additionalAttributes": {
+                        "eqpWidth": "1",
+                        "cardType": "PWR",
+                        "mdat": "UNKNOWN",
+                        "serviceCarrier": "false"
+                    }
+                },
+                "cardType": "PWR",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "isUpgrading": "False",
+                    "manufactureDate": "UNKNOWN"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_44"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_44"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_22",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "ESAM-1-22",
+                    "displayNameFormat": "type-sh-sl",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "22",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "ESAM-1-22",
+                "provisionedSpec": {
+                    "hardwareVersion": "20A",
+                    "serialNumber": "NNTMLIM00001",
+                    "manufacturer": "CIENA",
+                    "type": "ESAM C-Band w/OSC 1xSFP 10/100 BT WSC",
+                    "partNumber": "NTK552JT",
+                    "version": "20A",
+                    "displayLabels": {
+                        "clei": "CLEI_8182"
+                    },
+                    "additionalAttributes": {
+                        "eqpWidth": "1"
+                    }
+                },
+                "installedSpec": {
+                    "hardwareVersion": "20A",
+                    "serialNumber": "NNTMLIM00001",
+                    "manufacturer": "CIENA",
+                    "type": "ESAM C-Band w/OSC 1xSFP 10/100 BT WSC",
+                    "partNumber": "NTK552JT",
+                    "version": "20A",
+                    "displayLabels": {
+                        "clei": "CLEI_8182"
+                    },
+                    "subtendingEquipment": [
+                        {
+                            "total": "1",
+                            "type": "pluggable"
+                        }
+                    ],
+                    "additionalAttributes": {
+                        "eqpWidth": "1",
+                        "cardType": "ESAM",
+                        "mdat": "0-51",
+                        "cardPower": "FULL"
+                    }
+                },
+                "cardType": "ESAM",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "otsRole": "LIM",
+                    "isUpgrading": "False",
+                    "alarmResourceId": "ESAM-1-22,OTS-1-3",
+                    "manufactureDate": "0-51",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS",
+                    "otsAid": "OTS-1-3"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_22"
+                    }
+                },
+                "utilization": {
+                    "data": {
+                        "type": "utilization",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_22"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_22"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_43",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "PWR-1-43",
+                    "displayNameFormat": "type-sh-sl"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "43",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "",
+                "installedSpec": {
+                    "manufacturer": "CIENA",
+                    "type": "Power Card 3x60A breakered",
+                    "partNumber": "NTK605CA",
+                    "displayLabels": {
+                        "clei": "SIMPWR"
+                    },
+                    "additionalAttributes": {
+                        "eqpWidth": "1",
+                        "cardType": "PWR",
+                        "mdat": "UNKNOWN",
+                        "serviceCarrier": "false"
+                    }
+                },
+                "cardType": "PWR",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "isUpgrading": "False",
+                    "manufactureDate": "UNKNOWN"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_43"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_43"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_42",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "SP-1-42",
+                    "displayNameFormat": "type-sh-sl",
+                    "displayState": "OOS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "OOS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "42",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "SP-1-42",
+                "provisionedSpec": {
+                    "manufacturer": "CIENA",
+                    "type": "SP-2 Dual CPU",
+                    "partNumber": "NTK555FA",
+                    "additionalAttributes": {
+                        "eqpWidth": "1"
+                    }
+                },
+                "secondaryState": "UEQ",
+                "cardType": "SP",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "isUpgrading": "False",
+                    "alarmResourceId": "SP-1-42",
+                    "feasibilityState": "IS",
+                    "nativePST": "OOS-AU"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_42"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_42"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_41",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "SP-1-41",
+                    "displayNameFormat": "type-sh-sl",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "41",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "SP-1-41",
+                "provisionedSpec": {
+                    "hardwareVersion": "1",
+                    "serialNumber": "NNTM",
+                    "manufacturer": "CIENA",
+                    "type": "SP-2 Dual CPU",
+                    "partNumber": "NTK555FA",
+                    "version": "1",
+                    "additionalAttributes": {
+                        "eqpWidth": "1"
+                    }
+                },
+                "installedSpec": {
+                    "hardwareVersion": "1",
+                    "serialNumber": "NNTM",
+                    "manufacturer": "CIENA",
+                    "type": "SP-2 Dual CPU",
+                    "partNumber": "NTK555FA",
+                    "version": "1",
+                    "additionalAttributes": {
+                        "eqpWidth": "1",
+                        "cardType": "SP",
+                        "mdat": "UNKNOWN",
+                        "serviceCarrier": "false"
+                    }
+                },
+                "secondaryState": "WRK",
+                "cardType": "SP",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "isUpgrading": "False",
+                    "alarmResourceId": "SP-1-41",
+                    "manufactureDate": "UNKNOWN",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_41"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_41"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_FAN_46",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "Fan-1-46",
+                    "displayNameFormat": "type-sh-sl"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "subshelf": "FAN",
+                        "slot": "46",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "",
+                "installedSpec": {
+                    "hardwareVersion": "0000",
+                    "serialNumber": "0x00",
+                    "manufacturer": "CIENA",
+                    "type": "Fan",
+                    "partNumber": "NTK607AA",
+                    "version": "0000",
+                    "displayLabels": {
+                        "clei": "0x00"
+                    },
+                    "additionalAttributes": {
+                        "eqpWidth": "1",
+                        "cardType": "Fan",
+                        "mdat": "2003-01",
+                        "serviceCarrier": "false"
+                    }
+                },
+                "cardType": "Fan",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "isUpgrading": "False",
+                    "manufactureDate": "2003-01"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_FAN_46"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_FAN_46"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_AP_47",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "AP-1-47",
+                    "displayNameFormat": "type-sh-sl"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "subshelf": "AP",
+                        "slot": "47",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "",
+                "installedSpec": {
+                    "hardwareVersion": "0000",
+                    "serialNumber": "0x00",
+                    "manufacturer": "CIENA",
+                    "type": "Access Panel",
+                    "partNumber": "NTK605MA",
+                    "version": "0000",
+                    "displayLabels": {
+                        "clei": "0x00"
+                    },
+                    "additionalAttributes": {
+                        "eqpWidth": "1",
+                        "cardType": "AP",
+                        "mdat": "2003-01",
+                        "serviceCarrier": "false"
+                    }
+                },
+                "cardType": "AP",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "isUpgrading": "False",
+                    "manufactureDate": "2003-01"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_AP_47"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_AP_47"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "SHELF-1",
+                    "displayNameFormat": "type-sh",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "neContactState": "IN",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "fic": "NE2.1",
+                        "shelf": "1",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "SHELF-1",
+                "provisionedSpec": {
+                    "hardwareVersion": " 04 ",
+                    "serialNumber": "NNTMSIMSIDDD",
+                    "manufacturer": "CIENA",
+                    "type": "6500 32-Slot Packet-Optical Shelf Assembly",
+                    "partNumber": "NTK603AA",
+                    "version": "REL1560Z.OS",
+                    "displayLabels": {
+                        "clei": "WMMJW00BRB"
+                    },
+                    "additionalAttributes": {
+                        "eqpWidth": "1"
+                    }
+                },
+                "installedSpec": {
+                    "hardwareVersion": " 04 ",
+                    "serialNumber": "NNTMSIMSIDDD",
+                    "manufacturer": "CIENA",
+                    "type": "6500 32-Slot Packet-Optical Shelf Assembly",
+                    "partNumber": "NTK603AA",
+                    "version": "REL1560Z.OS",
+                    "displayLabels": {
+                        "clei": "WMMJW00BRB"
+                    },
+                    "subtendingEquipment": [
+                        {
+                            "total": "32",
+                            "type": "card"
+                        }
+                    ],
+                    "additionalAttributes": {
+                        "eqpWidth": "1",
+                        "cardType": "SHELF",
+                        "mdat": "2007-48"
+                    }
+                },
+                "cardType": "SHELF",
+                "siteName": "Site2",
+                "siteId": "2",
+                "siteGroup": "",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "shlfModel": "6500 32-SLOT OPTICAL",
+                    "physShelf": "2",
+                    "bayNum": "1",
+                    "powerbudget": "1790",
+                    "alarmResourceId": "SHELF-1",
+                    "ipAddr": "48.0.0.2",
+                    "isUpgrading": "False",
+                    "rel": " 04 ",
+                    "mdat": "2007-48",
+                    "manufactureDate": "2007-48",
+                    "extendedShelf": "DISABLE",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS",
+                    "primary": "ENABLE"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                },
+                "utilization": {
+                    "data": {
+                        "type": "utilization",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_22_2",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "P155M-1-22-2",
+                    "displayNameFormat": "type-sh-sl-ssl",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "22",
+                        "subslot": "2",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "P155M-1-22-2",
+                "provisionedSpec": {
+                    "manufacturer": "CIENA",
+                    "type": "OC-3 0-34dB CWDM 1511 nm Low TX Power",
+                    "partNumber": "NTK592NG",
+                    "additionalAttributes": {
+                        "eqpWidth": "1"
+                    }
+                },
+                "cardType": "P155M",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "otsRole": "OSC",
+                    "isUpgrading": "False",
+                    "alarmResourceId": "P155M-1-22-2,OTS-1-3",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS",
+                    "hasParentEquipment": "true",
+                    "otsAid": "OTS-1-3"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_22_2"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_22_2"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_22"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_6",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "CCMD8X16-1-6",
+                    "displayNameFormat": "type-sh-sl",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "6",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "CCMD8X16-1-6",
+                "provisionedSpec": {
+                    "hardwareVersion": "01A",
+                    "serialNumber": "NNTMOPM00001",
+                    "manufacturer": "CIENA",
+                    "type": "CCMD8x16 C-Band 1xCXM",
+                    "partNumber": "NTK508HA",
+                    "version": "01A",
+                    "displayLabels": {
+                        "clei": "CLEI_8166"
+                    },
+                    "additionalAttributes": {
+                        "equipmentProfile": "FLEXIBLEGRID",
+                        "eqpWidth": "2"
+                    }
+                },
+                "installedSpec": {
+                    "hardwareVersion": "01A",
+                    "serialNumber": "NNTMOPM00001",
+                    "manufacturer": "CIENA",
+                    "type": "CCMD8x16 C-Band 1xCXM",
+                    "partNumber": "NTK508HA",
+                    "version": "01A",
+                    "displayLabels": {
+                        "clei": "CLEI_8166"
+                    },
+                    "subtendingEquipment": [
+                        {
+                            "total": "1",
+                            "type": "pluggable"
+                        }
+                    ],
+                    "additionalAttributes": {
+                        "eqpWidth": "2",
+                        "cardType": "CCMD8X16",
+                        "mdat": "0-01",
+                        "cardPower": "FULL"
+                    }
+                },
+                "cardType": "CCMD8X16",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "LOC_2_AUTOMCPO": "N/A",
+                    "LOC_1_AUTOMCPO": "-7.7",
+                    "isUpgrading": "False",
+                    "alarmResourceId": "CCMD8X16-1-6",
+                    "LOC_1_REFTXRXTYPE": "56GBaud",
+                    "LOC_2_TYPE": "RXDEMUX",
+                    "manufactureDate": "0-01",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS",
+                    "LOC_1_TYPE": "TXMUX",
+                    "LOC_2_REFTXRXTYPE": "56GBaud"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_6"
+                    }
+                },
+                "utilization": {
+                    "data": {
+                        "type": "utilization",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_6"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_6"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_4",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "WSSOPM-1-4",
+                    "displayNameFormat": "type-sh-sl",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "4",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "WSSOPM-1-4",
+                "provisionedSpec": {
+                    "hardwareVersion": "01A",
+                    "serialNumber": "NNTMWSS00001",
+                    "manufacturer": "CIENA",
+                    "type": "WSS Flex C-Band w/OPM 20x1",
+                    "partNumber": "NTK553MA",
+                    "version": "01A",
+                    "displayLabels": {
+                        "clei": "CLEI_8164"
+                    },
+                    "additionalAttributes": {
+                        "equipmentProfile": "FLEXIBLEGRID",
+                        "eqpWidth": "2"
+                    }
+                },
+                "installedSpec": {
+                    "hardwareVersion": "01A",
+                    "serialNumber": "NNTMWSS00001",
+                    "manufacturer": "CIENA",
+                    "type": "WSS Flex C-Band w/OPM 20x1",
+                    "partNumber": "NTK553MA",
+                    "version": "01A",
+                    "displayLabels": {
+                        "clei": "CLEI_8164"
+                    },
+                    "additionalAttributes": {
+                        "eqpWidth": "2",
+                        "cardType": "WSSOPM",
+                        "mdat": "0-01",
+                        "cardPower": "FULL"
+                    }
+                },
+                "cardType": "WSSOPM",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "otsRole": "WSS",
+                    "isUpgrading": "False",
+                    "alarmResourceId": "WSSOPM-1-4,OTS-1-1",
+                    "manufactureDate": "0-01",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS",
+                    "otsAid": "OTS-1-1"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_4"
+                    }
+                },
+                "utilization": {
+                    "data": {
+                        "type": "utilization",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_4"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_4"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_28",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "100GMUX-1-28",
+                    "displayNameFormat": "type-sh-sl",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "28",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "100GMUX-1-28",
+                "provisionedSpec": {
+                    "hardwareVersion": "1",
+                    "serialNumber": "NNTM",
+                    "manufacturer": "CIENA",
+                    "type": "10x10G MUX Multi-Protocol 10xXFP",
+                    "partNumber": "NTK529BB",
+                    "version": "1",
+                    "additionalAttributes": {
+                        "eqpWidth": "1"
+                    }
+                },
+                "installedSpec": {
+                    "hardwareVersion": "1",
+                    "serialNumber": "NNTM",
+                    "manufacturer": "CIENA",
+                    "type": "10x10G MUX Multi-Protocol 10xXFP",
+                    "partNumber": "NTK529BB",
+                    "version": "1",
+                    "subtendingEquipment": [
+                        {
+                            "total": "10",
+                            "type": "pluggable"
+                        }
+                    ],
+                    "additionalAttributes": {
+                        "eqpWidth": "1",
+                        "cardType": "100GMUX",
+                        "mdat": "UNKNOWN",
+                        "cardPower": "FULL"
+                    }
+                },
+                "secondaryState": "IDLE",
+                "cardType": "100GMUX",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "supportedLineRate": "OTU2E",
+                    "isUpgrading": "False",
+                    "alarmResourceId": "100GMUX-1-28",
+                    "supportedMapping": "ALL",
+                    "manufactureDate": "UNKNOWN",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS",
+                    "eqptMode": "MP"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_28"
+                    }
+                },
+                "utilization": {
+                    "data": {
+                        "type": "utilization",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_28"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_28"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_3",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "XLA-1-3",
+                    "displayNameFormat": "type-sh-sl",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "3",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "XLA-1-3",
+                "provisionedSpec": {
+                    "hardwareVersion": "20A",
+                    "serialNumber": "NNTMRT0YLG43",
+                    "manufacturer": "CIENA",
+                    "type": "XLA C-Band",
+                    "partNumber": "NTK552KA",
+                    "version": "20A",
+                    "displayLabels": {
+                        "clei": "CLEI_8163"
+                    },
+                    "additionalAttributes": {
+                        "eqpWidth": "1"
+                    }
+                },
+                "installedSpec": {
+                    "hardwareVersion": "20A",
+                    "serialNumber": "NNTMRT0YLG43",
+                    "manufacturer": "CIENA",
+                    "type": "XLA C-Band",
+                    "partNumber": "NTK552KA",
+                    "version": "20A",
+                    "displayLabels": {
+                        "clei": "CLEI_8163"
+                    },
+                    "additionalAttributes": {
+                        "eqpWidth": "1",
+                        "cardType": "XLA",
+                        "mdat": "0-51",
+                        "cardPower": "FULL"
+                    }
+                },
+                "cardType": "XLA",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "otsRole": "AMP1",
+                    "isUpgrading": "False",
+                    "alarmResourceId": "XLA-1-3,OTS-1-1",
+                    "manufactureDate": "0-51",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS",
+                    "otsAid": "OTS-1-1"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_3"
+                    }
+                },
+                "utilization": {
+                    "data": {
+                        "type": "utilization",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_3"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_3"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_27",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "100GOCLD-1-27",
+                    "displayNameFormat": "type-sh-sl",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "27",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "100GOCLD-1-27",
+                "provisionedSpec": {
+                    "hardwareVersion": "1",
+                    "serialNumber": "NNTM",
+                    "manufacturer": "CIENA",
+                    "type": "100G WL3 OCLD EnhPMD w/EDFA 1xOTU4 C-Band",
+                    "modemType": "WL3",
+                    "partNumber": "NTK539UA",
+                    "version": "1",
+                    "additionalAttributes": {
+                        "equipmentProfile": "QPSK100G",
+                        "eqpWidth": "1"
+                    }
+                },
+                "installedSpec": {
+                    "hardwareVersion": "1",
+                    "serialNumber": "NNTM",
+                    "manufacturer": "CIENA",
+                    "type": "100G WL3 OCLD EnhPMD w/EDFA 1xOTU4 C-Band",
+                    "modemType": "WL3",
+                    "partNumber": "NTK539UA",
+                    "version": "1",
+                    "additionalAttributes": {
+                        "eqpWidth": "1",
+                        "cardType": "100GOCLD",
+                        "mdat": "UNKNOWN",
+                        "cardPower": "FULL"
+                    }
+                },
+                "secondaryState": "IDLE",
+                "cardType": "100GOCLD",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "supportedLineRate": "OTU4",
+                    "isUpgrading": "False",
+                    "alarmResourceId": "100GOCLD-1-27",
+                    "manufactureDate": "UNKNOWN",
+                    "provMode": "TRNSPNDR",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS",
+                    "eqptMode": "MP"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_27"
+                    }
+                },
+                "utilization": {
+                    "data": {
+                        "type": "utilization",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_27"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_27"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_2",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "ESAM-1-2",
+                    "displayNameFormat": "type-sh-sl",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "2",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "ESAM-1-2",
+                "provisionedSpec": {
+                    "hardwareVersion": "20A",
+                    "serialNumber": "NNTMLIM00001",
+                    "manufacturer": "CIENA",
+                    "type": "ESAM C-Band w/OSC 1xSFP 10/100 BT WSC",
+                    "partNumber": "NTK552JT",
+                    "version": "20A",
+                    "displayLabels": {
+                        "clei": "CLEI_8162"
+                    },
+                    "additionalAttributes": {
+                        "eqpWidth": "1"
+                    }
+                },
+                "installedSpec": {
+                    "hardwareVersion": "20A",
+                    "serialNumber": "NNTMLIM00001",
+                    "manufacturer": "CIENA",
+                    "type": "ESAM C-Band w/OSC 1xSFP 10/100 BT WSC",
+                    "partNumber": "NTK552JT",
+                    "version": "20A",
+                    "displayLabels": {
+                        "clei": "CLEI_8162"
+                    },
+                    "subtendingEquipment": [
+                        {
+                            "total": "1",
+                            "type": "pluggable"
+                        }
+                    ],
+                    "additionalAttributes": {
+                        "eqpWidth": "1",
+                        "cardType": "ESAM",
+                        "mdat": "0-51",
+                        "cardPower": "FULL"
+                    }
+                },
+                "cardType": "ESAM",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "otsRole": "LIM",
+                    "isUpgrading": "False",
+                    "alarmResourceId": "ESAM-1-2,OTS-1-1",
+                    "manufactureDate": "0-51",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS",
+                    "otsAid": "OTS-1-1"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_2"
+                    }
+                },
+                "utilization": {
+                    "data": {
+                        "type": "utilization",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_2"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_2"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_25",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "TRM-1-25",
+                    "displayNameFormat": "type-sh-sl",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "25",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "TRM-1-25",
+                "provisionedSpec": {
+                    "hardwareVersion": "1",
+                    "serialNumber": "NNTM",
+                    "manufacturer": "CIENA",
+                    "type": "WLAi MOTR 4xQSFP28",
+                    "modemType": "WLAi",
+                    "partNumber": "NTK538DZ",
+                    "version": "1",
+                    "additionalAttributes": {
+                        "eqpWidth": "1"
+                    }
+                },
+                "installedSpec": {
+                    "hardwareVersion": "1",
+                    "serialNumber": "NNTM",
+                    "manufacturer": "CIENA",
+                    "type": "WLAi MOTR 4xQSFP28",
+                    "modemType": "WLAi",
+                    "partNumber": "NTK538DZ",
+                    "version": "1",
+                    "subtendingEquipment": [
+                        {
+                            "total": "4",
+                            "type": "pluggable"
+                        }
+                    ],
+                    "additionalAttributes": {
+                        "eqpWidth": "1",
+                        "cardType": "TRM",
+                        "mdat": "UNKNOWN",
+                        "cardPower": "FULL"
+                    }
+                },
+                "secondaryState": "IDLE",
+                "cardType": "TRM",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "isUpgrading": "False",
+                    "alarmResourceId": "TRM-1-25",
+                    "manufactureDate": "UNKNOWN",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS",
+                    "eqptMode": "I"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_25"
+                    }
+                },
+                "utilization": {
+                    "data": {
+                        "type": "utilization",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_25"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_25"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_11",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "WSSOPM-1-11",
+                    "displayNameFormat": "type-sh-sl",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "11",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "WSSOPM-1-11",
+                "provisionedSpec": {
+                    "hardwareVersion": "01A",
+                    "serialNumber": "NNTMWSS00001",
+                    "manufacturer": "CIENA",
+                    "type": "WSS Flex C-Band w/OPM 20x1",
+                    "partNumber": "NTK553MA",
+                    "version": "01A",
+                    "displayLabels": {
+                        "clei": "CLEI_8171"
+                    },
+                    "additionalAttributes": {
+                        "equipmentProfile": "FLEXIBLEGRID",
+                        "eqpWidth": "2"
+                    }
+                },
+                "installedSpec": {
+                    "hardwareVersion": "01A",
+                    "serialNumber": "NNTMWSS00001",
+                    "manufacturer": "CIENA",
+                    "type": "WSS Flex C-Band w/OPM 20x1",
+                    "partNumber": "NTK553MA",
+                    "version": "01A",
+                    "displayLabels": {
+                        "clei": "CLEI_8171"
+                    },
+                    "additionalAttributes": {
+                        "eqpWidth": "2",
+                        "cardType": "WSSOPM",
+                        "mdat": "0-01",
+                        "cardPower": "FULL"
+                    }
+                },
+                "cardType": "WSSOPM",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "otsRole": "WSS",
+                    "isUpgrading": "False",
+                    "alarmResourceId": "WSSOPM-1-11,OTS-1-2",
+                    "manufactureDate": "0-01",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS",
+                    "otsAid": "OTS-1-2"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_11"
+                    }
+                },
+                "utilization": {
+                    "data": {
+                        "type": "utilization",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_11"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_11"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        },
+        {
+            "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_51",
+            "type": "equipment",
+            "attributes": {
+                "displayData": {
+                    "displayName": "FIM-1-51",
+                    "displayNameFormat": "type-sh-sl",
+                    "displayState": "IS"
+                },
+                "specificationMismatch": false,
+                "specificationMismatchStatus": "",
+                "state": "IS",
+                "resourceState": "discovered",
+                "locations": [
+                    {
+                        "managementType": "tl1",
+                        "shelf": "1",
+                        "slot": "51",
+                        "neName": "NE2"
+                    }
+                ],
+                "category": "shelf",
+                "nativeName": "FIM-1-51",
+                "provisionedSpec": {
+                    "manufacturer": "CIENA",
+                    "type": "Fiber Interconnect Module (FIM) Type 1",
+                    "partNumber": "NTK504CA",
+                    "additionalAttributes": {
+                        "eqpWidth": "1"
+                    }
+                },
+                "installedSpec": {
+                    "manufacturer": "CIENA",
+                    "type": "Fiber Interconnect Module (FIM) Type 1",
+                    "partNumber": "NTK504CA",
+                    "additionalAttributes": {
+                        "eqpWidth": "1",
+                        "utilizationPropagation": "false",
+                        "cardType": "FIM",
+                        "mdat": "UNKNOWN"
+                    }
+                },
+                "cardType": "FIM",
+                "maintenanceMode": false,
+                "additionalAttributes": {
+                    "isUpgrading": "False",
+                    "alarmResourceId": "FIM-1-51",
+                    "manufactureDate": "UNKNOWN",
+                    "feasibilityState": "IS",
+                    "nativePST": "IS"
+                }
+            },
+            "relationships": {
+                "equipmentDiscovered": {
+                    "data": {
+                        "type": "equipmentDiscovered",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_51"
+                    }
+                },
+                "utilization": {
+                    "data": {
+                        "type": "utilization",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1_51"
+                    }
+                },
+                "networkConstruct": {
+                    "data": {
+                        "type": "networkConstructs",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929"
+                    }
+                },
+                "equipmentHolder": {
+                    "data": {
+                        "type": "equipmentHolders",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPTHLD_1_51"
+                    }
+                },
+                "carrierEquipment": {
+                    "data": {
+                        "type": "equipment",
+                        "id": "d120cf03-03cc-3d1b-b617-0c5acb237929::EQPT_1"
+                    }
+                }
+            }
+        }
+    ]
+}
