@@ -24,11 +24,17 @@ MCP_PASSWORD = "USERPASSWORD"
 
 network_constr_ids = {
     'NE1': 'network_constr_id',
+    
     'NE2': 'network_constr_id',
+    
     'NE3': 'network_constr_id',
+    
     'NE4': 'network_constr_id',
+    
     'NE5': 'network_constr_id',
+    
     'NEX': 'network_constr_id'
+    
 }
 
 With that you will be able to run the scripts.
