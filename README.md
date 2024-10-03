@@ -24,7 +24,7 @@ Accurate reports are essential for better resource allocation and investment pla
 
 To use the scripts you must specify some informations hardcoding. And these informations are:
 
-MCP_SERVER = "https://<IP ADRESS>"
+MCP_SERVER = "https://<IPADRESS>"
 
 MCP_USERNAME = "USER"
 
