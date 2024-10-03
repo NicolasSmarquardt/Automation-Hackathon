@@ -17,8 +17,11 @@ Accurate reports are essential for better resource allocation and investment pla
 To use the scripts you must specify some informations hardcoding. And these informations are:
 
 MCP_SERVER = "https://<IP ADRESS>"
+
 MCP_USERNAME = "USER"
+
 MCP_PASSWORD = "USERPASSWORD"
+
 network_constr_ids = {
     'NE1': 'network_constr_id',
     'NE2': 'network_constr_id',
